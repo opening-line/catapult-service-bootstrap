@@ -20,7 +20,7 @@ importanceGrouping = 1433
 importanceActivityPercentage = 5
 maxRollbackBlocks = 398
 maxDifficultyBlocks = 60
-defaultDynamicFeeMultiplier = 1'000
+defaultDynamicFeeMultiplier = 0
 
 maxTransactionLifetime = 24h
 maxBlockFutureTime = 500ms
